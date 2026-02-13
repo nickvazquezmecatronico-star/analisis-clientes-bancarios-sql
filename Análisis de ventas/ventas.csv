@@ -1,0 +1,11 @@
+id_venta,fecha,producto,categoria,precio,cantidad,ciudad
+1,2026-01-01,Laptop,Tecnologia,15000.00,1,Monterrey
+2,2026-01-02,Mouse,Tecnologia,300.00,3,CDMX
+3,2026-01-02,Teclado,Tecnologia,700.00,2,Tampico
+4,2026-01-03,Silla,Oficina,2500.00,1,Monterrey
+5,2026-01-04,Monitor,Tecnologia,4000.00,2,CDMX
+6,2026-01-05,Escritorio,Oficina,3500.00,1,Tampico
+7,2026-01-06,Audifonos,Tecnologia,1200.00,2,Monterrey
+8,2026-01-07,Mouse,Tecnologia,300.00,4,CDMX
+9,2026-01-08,Laptop,Tecnologia,15000.00,1,Tampico
+10,2026-01-09,Silla,Oficina,2500.00,2,Monterrey
