@@ -24,3 +24,12 @@ Proyecto de análisis de datos utilizando MySQL y SQL para modelar clientes, cue
 - Agregaciones (SUM, AVG)
 - GROUP BY
 - Análisis orientado a negocio
+
+- ## Dashboard en Power BI
+
+Se creó dashboard con:
+- total de dinero administrado
+- top clientes
+- ciudad con mayor saldo
+- movimientos por tipo de cuenta
+
